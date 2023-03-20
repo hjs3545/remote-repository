@@ -1,3 +1,5 @@
  hihi
 
 git fetch gogogo
+
+git pull gogogo
